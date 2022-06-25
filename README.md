@@ -41,7 +41,7 @@
 
 ### A Student, Flutter Developer & Writer
 
-<img align="right" alt="GIF" src="code.gif" width="400" height="270" />
+<img align="right" alt="GIF" src="code.gif" width="380" height="250" />
 
 #### Talking about my personal stuff:
 
