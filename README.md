@@ -47,7 +47,7 @@
 
 - 🙋‍♂️ CEO at [Tosty Developers][tostydevs]
 - 👉 Leading a group of developers
-- 💻 The tech I'm interested Flutter/ML/Face Recognition etc.
+- 💻 The tech I'm interested in: Flutter/ML/Face Recognition etc.
 - ✍ Technical writer & Flutter Developer at [Fiverr][fiverr]
 - ✨ I'm learning Flutter, Firebase, Automations etc.
 - 🎮 Call of Duty: Mobile player
@@ -57,7 +57,7 @@
 <!-- #### ✍ Medium Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
+<!-- - [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
 - [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
 - [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
 - [Flutter Roadmap &amp; Resource Guide — 2020](https://itnext.io/flutter-roadmap-resource-guide-2020-2ea6e4460a15?source=rss-198dec8dcf4a------2)
