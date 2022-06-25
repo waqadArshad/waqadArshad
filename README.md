@@ -6,23 +6,23 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/mhmzdev/">
+<a href="https://www.instagram.com/waqad_arshad/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/mhmzdev/">
+<a href="https://www.linkedin.com/in/waqad-arshad">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://mhmzdev.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://www.fiverr.com/waqadarshad">
+    <img src="https://img.shields.io/badge/Fiverr-%230077B5.svg?&style=for-the-badge&logo=fiverr&color=darkgreen&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/mhmzdev/">
+<a href="https://www.facebook.com/waqad.arshad.2/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/12297382/hamza">
+<a href="https://stackoverflow.com/users/10415632/waqad-arshad">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 </div>
@@ -39,30 +39,29 @@
 </div> -->
 
 
-### A Student, Developer & Writer
+### A Student, Flutter Developer & Writer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
-- 👉 Leading [Flutter Islamabad][flutter_isb]
-- 💻 The tech I'm interested Flutter/ML/AR etc.
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 Live [Portfolio][profile]
-- 🎨 [Dribbble][dribbble] profile
+- 🙋‍♂️ CEO at [Tosty Developers][tostydevs]
+- 👉 Leading a group of developers
+- 💻 The tech I'm interested Flutter/ML/Face Recognition etc.
+- ✍ Technical writer & Flutter Developer at [Fiverr][fiverr]
+- ✨ I'm learning Flutter, Firebase, Automations etc.
+- 🎮 Call of Duty: Mobile player
+<!-- - 📄 Live [Portfolio][profile] -->
+<!-- - 🎨 [Dribbble][dribbble] profile -->
 
-#### ✍ Medium Blog Posts
+<!-- #### ✍ Medium Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
 - [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
 - [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
 - [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
 - [Flutter Roadmap &amp; Resource Guide — 2020](https://itnext.io/flutter-roadmap-resource-guide-2020-2ea6e4460a15?source=rss-198dec8dcf4a------2)
-- [Getting Most out of GitHub &amp; Stack Overflow — Flutter Beginner](https://mhmzdev.medium.com/getting-most-out-of-github-stack-overflow-flutter-beginner-5ad8ed01cdef?source=rss-198dec8dcf4a------2)
+- [Getting Most out of GitHub &amp; Stack Overflow — Flutter Beginner](https://mhmzdev.medium.com/getting-most-out-of-github-stack-overflow-flutter-beginner-5ad8ed01cdef?source=rss-198dec8dcf4a------2) -->
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- ### Languages & Tools
@@ -92,19 +91,15 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
+[![Waqad's github stats](https://github-readme-stats.vercel.app/api?username=waqadArshad&theme=gotham)](https://github.com/waqadArshad/github-readme-stats)
 
 
 
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
+![](https://visitor-badge.glitch.me/badge?page_id=waqadArshad.waqadArshad)
 
 
-[quran]: https://github.com/mhmzdev/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: https://mhmz.dev
-[medium]: https://mhamzdev.medium.com/
-[dribbble]: https://dribbble.com/mhmzdev
+[tostydevs]: https://www.linkedin.com/company/tosty-developers/
+[fiverr]: https://www.fiverr.com/waqadarshad
