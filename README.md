@@ -77,8 +77,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
@@ -92,6 +90,8 @@
 
 </div>
 
+<br>
+<br>
 <br>
 
 <summary>📝 My GitHub Stats</summary>
