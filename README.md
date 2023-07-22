@@ -263,7 +263,9 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 
-![](https://visitor-badge.glitch.me/badge?page_id=waqadArshad.waqadArshad)
+<img src="https://hits.dwyl.com/waqadArshad/waqadArshad.svg?style=flat-square&show=unique" alt="Waqad's profile views" />
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=waqadArshad.waqadArshad) -->
 
 
 <!-- [tostydevs]: https://www.linkedin.com/company/tosty-developers/ -->
