@@ -164,8 +164,8 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
 	</tr>
 	<tr>
 		<td>
-            <img width="800px" src="https://github.com/waqadArshad/waqadArshad/assets/56170179/f0f13d52-1f94-42dd-9137-92d331032609" alt="Love Eatery POS | Kiwi POS - A comprehensive POS system -  - Simplify Your Restaurant Operations with Love Eatery POS: Seamless Management, Effortless Service 📢📣🍕🍔🌭🥡📣📢!" />
-			<h3>Love Eatery POS - Simplify Your Restaurant Operations with Love Eatery POS: Seamless Management, Effortless Service 📢📣🍕🍔🌭🥡📣📢!</h3>
+            <img width="800px" src="https://github.com/waqadArshad/waqadArshad/assets/56170179/f0f13d52-1f94-42dd-9137-92d331032609" alt="Love Eatery POS | Kiwi POS - A comprehensive POS system - Simplify Your Restaurant Operations with Love Eatery POS: Seamless Management, Effortless Service 📢📣🍕🍔🌭🥡📣📢!" />
+			<h3>Love Eatery POS | Kiwi POS - Simplify Your Restaurant Operations with Love Eatery POS: Seamless Management, Effortless Service 📢📣🍕🍔🌭🥡📣📢!</h3>
 			<p>A comprehensive POS app. I worked on this app as a Flutter Developer Team Lead at <a href="https://tostydevs.com">Tosty Devs</a></p>
 			<p>🗓 January 2023 - March 2022 (~3 months)</p>
 		</td>
