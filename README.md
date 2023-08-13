@@ -176,7 +176,7 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
 </a>
 			</div>
 			<div>
-<a href="https://apps.apple.com/">
+<a href="https://apps.apple.com/app/kiwi-pos/id6450825723">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Love Eatery POS on iOS App Store" />
 </a>
 			</div>
@@ -199,7 +199,7 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
 </a>
 			</div>
                 <div>
-<a href="https://apps.apple.com/">
+<a href="https://apps.apple.com/app/crystals-social-app/id6446220357">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Crystals Dating App on iOS App Store" />
 </a>
 			</div>
