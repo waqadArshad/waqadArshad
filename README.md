@@ -149,7 +149,7 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=waqadArshad&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&theme=dracula" alt="Waqad's Github Stats"/>
 <!-- <p>&emsp;</p> -->
     &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=waqadArshad&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Waqad's GitHub Streaks" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=waqadArshad&include_all_commits=true&count_private=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Waqad's GitHub Streaks" />
 </div>
 
 
