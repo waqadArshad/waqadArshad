@@ -47,12 +47,12 @@ Throughout my career, I have completed approximately 25+ projects, from concept 
 <!-- ### A Student, Flutter Developer & Writer -->
 
 #### Personal stuff:
-
-- 🙋‍♂️ CEO at [Tosty Developers][tostydevs]
+- 🙋‍♂️ Senior Flutter Developer at [Sanmiwago Inc.][sanmiwago]
+- 🙋‍♂️ Manger at [Tosty Developers][tostydevs]
 - 👉 Leading a group of developers
 - 💻 The tech I'm interested in: Flutter/ML/Face Recognition etc.
 - ✍ Technical writer & Flutter Developer at [Fiverr][fiverr]
-- ✨ I'm learning Flutter, Firebase, Automation etc.
+- ✨ I'm learning Flutter, Firebase, Node.js, Automation etc.
 - 🎮 Call of Duty: Mobile player
 <!-- - 📄 Live [Portfolio][profile] -->
 <!-- - 🎨 [Dribbble][dribbble] profile -->
@@ -269,5 +269,6 @@ Open Source Contributor from <b>Pakistan<b> 💚
 
 
 <!-- [tostydevs]: https://www.linkedin.com/company/tosty-developers/ -->
+[sanmiwago]: https://sanmiwagodumplinghouse.com/
 [tostydevs]: https://www.tostydevs.com/
 [fiverr]: https://www.fiverr.com/waqadarshad
