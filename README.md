@@ -1,6 +1,6 @@
-### Hey there, I'm  Waqad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> a highly skilled Mobile Application Developer with a 3-year track record of excellence in Flutter (Android & iOS) development. 
+### Hey there, I'm  Waqad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> a highly skilled Mobile Application Developer with a 5-year track record of excellence in Flutter (Android & iOS) development. 
 
-Throughout my career, I have spearheaded approximately 10 projects, from concept to development and deployment. My work is a testament to my commitment to delivering top-notch applications that resonate with users and meet the highest standards of quality. You can explore some of the remarkable apps I've contributed to, along with their Apple App Store and Google Play Store links, in my extensive portfolio.
+Throughout my career, I have completed approximately 25+ projects, from concept to development and deployment. My work is a testament to my commitment to delivering top-notch applications that resonate with users and meet the highest standards of quality. You can explore some of the remarkable apps I've contributed to, along with their Apple App Store and Google Play Store links, in my extensive portfolio.
 
 #### Education & Achievements: <br>
 👨‍💻 BS. Computer Science <br>
